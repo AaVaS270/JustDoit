@@ -14,7 +14,7 @@ class LoginScreen extends StatelessWidget {
 class Body extends StatelessWidget {
   const Body({
     Key? key,
-    required this.size,
+    
   }) : super(key: key);
 
 
